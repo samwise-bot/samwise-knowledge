@@ -1,8 +1,8 @@
-# Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason
+# How to Make Your Openclaw Actually Like Jarvis & Make Money
 
-- Source: https://youtu.be/nSBKCZQkmYw?si=LKvXZX3uaRKqXLS1
-- Channel: Peter Yang
-- Published: 20260222
+- Source: https://youtu.be/DIBER03bD6g?si=EBeuWoDDxp7ebf7J
+- Channel: Ashen
+- Published: 20260225
 - Captured: 2026-02-27
 
 ## Summary (5 bullets)

@@ -1,8 +1,8 @@
-# Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason
+# My Multi-Agent Team with OpenClaw
 
-- Source: https://youtu.be/nSBKCZQkmYw?si=LKvXZX3uaRKqXLS1
-- Channel: Peter Yang
-- Published: 20260222
+- Source: https://youtu.be/bzWI3Dil9Ig?si=HoUIV5fIKZnpUs0_
+- Channel: Brian Casel
+- Published: 20260216
 - Captured: 2026-02-27
 
 ## Summary (5 bullets)

@@ -1,8 +1,8 @@
-# Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason
+# Making $$$ with OpenClaw
 
-- Source: https://youtu.be/nSBKCZQkmYw?si=LKvXZX3uaRKqXLS1
-- Channel: Peter Yang
-- Published: 20260222
+- Source: https://m.youtube.com/watch?v=i13XK-uUOLQ
+- Channel: Greg Isenberg
+- Published: 20260218
 - Captured: 2026-02-27
 
 ## Summary (5 bullets)
